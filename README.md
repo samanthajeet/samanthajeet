@@ -1,4 +1,4 @@
-### I done did it y'all
+### I did the thing
 
 <!--
 **samanthajeet/samanthajeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
